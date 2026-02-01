@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+seaborn
+django
+plotly
+joblib
+ipykernel
+gunicorn
+whitenoise
+xgboost
+requests
